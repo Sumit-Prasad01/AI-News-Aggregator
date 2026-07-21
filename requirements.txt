@@ -8,5 +8,5 @@
     pydantic
     python-dotenv
     requests
-    sqlalchem
+    sqlalchemy
     youtube-transcript-api
