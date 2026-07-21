@@ -1,0 +1,12 @@
+    beautifulsoup4
+    docling
+    feedparser
+    markdown
+    markdownify
+    openai
+    psycopg2-binary
+    pydantic
+    python-dotenv
+    requests
+    sqlalchem
+    youtube-transcript-api
